@@ -1,0 +1,29 @@
+
+
+.container{
+    
+    background-color: grey;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    padding: 15px;
+    max-width: 30%;
+    border-radius: 10px;
+    text-align: left;
+}
+.container input{
+    margin: 5px;
+}
+.story{
+    background-color: gray;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+.story h1{
+    color: azure;
+}
+
+.story p{
+    font-size: 20px;
+}
